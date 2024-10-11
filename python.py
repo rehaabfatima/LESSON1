@@ -1,0 +1,13 @@
+print("HELLO")
+print("I am Rehaab Fatima")
+print("I am from Pakistan")
+print("I am reading in 11th grade")
+print("I live in Faisalabad that is a famous district in Pakistan")
+print("I am a student of codingal too")
+print("I love to code")
+print("I want to become a software engineer.")
+print("I also learned to develop web")
+print("Thats all about me")
+print("Keywords in python are")
+import keyword
+print(keyword.kwlist)
